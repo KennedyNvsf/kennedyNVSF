@@ -1,5 +1,5 @@
 # 💫 About Me:
-React developer currently interested in building Fullstack Applications <br>for real world solutions.<br>Slowly transioning to React Native for Mobile Development.<br>Open to new challenges and crazy ideas.
+React developer currently interested in building Fullstack Applications <br>for real world solutions.<br>Slowly transitioning to React Native for Mobile Development.<br>Open to new challenges and crazy ideas.
 
 
 ## 🌐 Socials:
